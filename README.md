@@ -1,4 +1,4 @@
-# Pluely 🚀
+# Pluely 🚀🚀🚀
 
 <a href="https://pluely.com/">
   <img src="/images/app-image.png" alt="pluely banner" width="100%" />
