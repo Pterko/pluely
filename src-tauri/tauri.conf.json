@@ -49,9 +49,6 @@
   "plugins": {
     "sql": {
       "preload": ["sqlite:pluely.db"]
-    },
-          "updater": {
-        "endpoints": []
-      }
+    }
   }
 }
